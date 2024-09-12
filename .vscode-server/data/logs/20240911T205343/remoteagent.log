@@ -1,0 +1,13 @@
+2024-09-11 20:53:43.845 [info] 
+
+
+
+
+2024-09-11 20:53:43.845 [info] Extension host agent started.
+2024-09-11 20:53:43.874 [info] Started initializing default profile extensions in extensions installation folder. file:///home/nicogst/.vscode-server/extensions
+2024-09-11 20:53:43.892 [info] [127.0.0.1][8304de47][ManagementConnection] New connection established.
+2024-09-11 20:53:43.905 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/nicogst/.vscode-server/extensions
+2024-09-11 20:53:44.338 [info] [127.0.0.1][35f2e841][ExtensionHostConnection] New connection established.
+2024-09-11 20:53:44.410 [info] [127.0.0.1][35f2e841][ExtensionHostConnection] <1430> Launched Extension Host Process.
+2024-09-11 21:00:21.590 [info] [127.0.0.1][8304de47][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-11 21:00:21.823 [info] [127.0.0.1][35f2e841][ExtensionHostConnection] <1430> Extension Host Process exited with code: 0, signal: null.

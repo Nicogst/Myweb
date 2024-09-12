@@ -1,0 +1,15 @@
+2024-09-11 21:34:44.280 [info] Extension host with pid 23026 started
+2024-09-11 21:34:44.357 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-11 21:34:44.360 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-09-11 21:34:45.362 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-11 21:34:45.410 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-11 21:34:45.411 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-11 21:34:46.042 [info] Eager extensions activated
+2024-09-11 21:34:46.042 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-11 21:34:46.043 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-11 21:34:46.044 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-09-11 21:39:55.406 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-11 21:39:55.407 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-11 21:39:55.408 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-11 21:41:07.647 [info] Extension host terminating: received terminate message from renderer
+2024-09-11 21:41:08.662 [info] Extension host with pid 23026 exiting with code 0

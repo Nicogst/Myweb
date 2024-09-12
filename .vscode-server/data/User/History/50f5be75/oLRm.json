@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.ignoreFiles": [
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+    ],
+    "liveServer.settings.useWebExt": true,
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.donotShowInfoMsg": true
+}

@@ -1,0 +1,12 @@
+2024-09-11 21:04:29.135 [info] Extension host with pid 6032 started
+2024-09-11 21:04:29.303 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-11 21:04:29.505 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-11 21:04:29.506 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-11 21:04:30.110 [info] Eager extensions activated
+2024-09-11 21:04:30.112 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-11 21:04:30.113 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-11 21:04:52.666 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-11 21:05:27.783 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-09-11 21:11:17.093 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-09-11 21:11:38.879 [info] Extension host terminating: received terminate message from renderer
+2024-09-11 21:11:39.043 [info] Extension host with pid 6032 exiting with code 0

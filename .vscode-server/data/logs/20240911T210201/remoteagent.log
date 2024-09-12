@@ -1,0 +1,27 @@
+2024-09-11 21:02:02.097 [info] 
+
+
+
+
+2024-09-11 21:02:02.124 [info] Extension host agent started.
+2024-09-11 21:02:02.239 [info] [127.0.0.1][cc730826][ManagementConnection] New connection established.
+2024-09-11 21:02:02.726 [info] [127.0.0.1][5baeb4c8][ExtensionHostConnection] New connection established.
+2024-09-11 21:02:02.744 [info] [127.0.0.1][5baeb4c8][ExtensionHostConnection] <4887> Launched Extension Host Process.
+2024-09-11 21:03:34.272 [info] [127.0.0.1][cc730826][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-11 21:03:34.473 [info] [127.0.0.1][5baeb4c8][ExtensionHostConnection] <4887> Extension Host Process exited with code: 0, signal: null.
+2024-09-11 21:03:37.576 [info] [127.0.0.1][74cc394c][ManagementConnection] New connection established.
+2024-09-11 21:03:37.927 [info] [127.0.0.1][d9f11047][ExtensionHostConnection] New connection established.
+2024-09-11 21:03:38.017 [info] [127.0.0.1][d9f11047][ExtensionHostConnection] <5607> Launched Extension Host Process.
+2024-09-11 21:04:24.932 [info] [127.0.0.1][74cc394c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-11 21:04:24.972 [info] [127.0.0.1][d9f11047][ExtensionHostConnection] <5607> Extension Host Process exited with code: 0, signal: null.
+2024-09-11 21:04:27.845 [info] [127.0.0.1][5c4f10de][ManagementConnection] New connection established.
+2024-09-11 21:04:28.269 [info] [127.0.0.1][f85d2ce0][ExtensionHostConnection] New connection established.
+2024-09-11 21:04:28.275 [info] [127.0.0.1][f85d2ce0][ExtensionHostConnection] <6032> Launched Extension Host Process.
+2024-09-11 21:11:00.176 [info] Getting Manifest... ritwickdey.liveserver
+2024-09-11 21:11:00.605 [info] Installing extension: ritwickdey.liveserver {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/nicogst/.vscode-server/extensions/extensions.json","external":"file:///home/nicogst/.vscode-server/extensions/extensions.json","path":"/home/nicogst/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.93.0","date":"2024-09-04T13:02:38.431Z"}}
+2024-09-11 21:11:08.602 [info] Extension signature verification result for ritwickdey.liveserver: Success. Executed: true. Duration: 3660ms.
+2024-09-11 21:11:16.696 [info] Extracted extension to file:///home/nicogst/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-09-11 21:11:16.722 [info] Renamed to /home/nicogst/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2024-09-11 21:11:16.747 [info] Extension installed successfully: ritwickdey.liveserver file:///home/nicogst/.vscode-server/extensions/extensions.json
+2024-09-11 21:11:38.889 [info] [127.0.0.1][5c4f10de][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-11 21:11:39.132 [info] [127.0.0.1][f85d2ce0][ExtensionHostConnection] <6032> Extension Host Process exited with code: 0, signal: null.

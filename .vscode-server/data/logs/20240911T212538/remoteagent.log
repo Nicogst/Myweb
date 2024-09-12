@@ -1,0 +1,23 @@
+2024-09-11 21:25:39.449 [info] 
+
+
+
+
+2024-09-11 21:25:39.450 [info] Extension host agent started.
+2024-09-11 21:25:41.787 [info] [127.0.0.1][3a6a6cac][ManagementConnection] New connection established.
+2024-09-11 21:25:41.803 [info] [127.0.0.1][ad07a9d0][ExtensionHostConnection] New connection established.
+2024-09-11 21:25:41.835 [info] [127.0.0.1][ad07a9d0][ExtensionHostConnection] <19016> Launched Extension Host Process.
+2024-09-11 21:26:20.366 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///home/nicogst/.vscode-server/extensions/extensions.json
+2024-09-11 21:26:20.404 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2024-09-11 21:26:20.911 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///home/nicogst/.vscode-server/extensions/extensions.json
+2024-09-11 21:26:23.634 [info] Getting Manifest... ritwickdey.liveserver
+2024-09-11 21:26:24.017 [info] Installing extension: ritwickdey.liveserver {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/nicogst/.vscode-server/extensions/extensions.json","external":"file:///home/nicogst/.vscode-server/extensions/extensions.json","path":"/home/nicogst/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.93.0","date":"2024-09-04T13:02:38.431Z"}}
+2024-09-11 21:26:24.134 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2024-09-11 21:26:24.160 [info] Extension installed successfully: ritwickdey.liveserver file:///home/nicogst/.vscode-server/extensions/extensions.json
+2024-09-11 21:26:46.676 [info] [127.0.0.1][3a6a6cac][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-11 21:26:46.800 [info] [127.0.0.1][ad07a9d0][ExtensionHostConnection] <19016> Extension Host Process exited with code: 0, signal: null.
+2024-09-11 21:26:49.242 [info] [127.0.0.1][f54e2af4][ManagementConnection] New connection established.
+2024-09-11 21:26:49.661 [info] [127.0.0.1][22b74efc][ExtensionHostConnection] New connection established.
+2024-09-11 21:26:49.676 [info] [127.0.0.1][22b74efc][ExtensionHostConnection] <19550> Launched Extension Host Process.
+2024-09-11 21:31:19.952 [info] [127.0.0.1][f54e2af4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-11 21:31:20.005 [info] [127.0.0.1][22b74efc][ExtensionHostConnection] <19550> Extension Host Process exited with code: 0, signal: null.
